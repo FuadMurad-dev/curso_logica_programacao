@@ -12,7 +12,7 @@ public class tipos_de_dados {
         generos = 'M'; 
 
         System.out.println("Idade = " + idade );
-        System.out.println("Salario = " String.format("%.2f"+ salario);
+        System.out.println("Salario = " String.format("%.2f"+ salario));
         System.out.println("Genero = " + generos);
         System.out.println("Nome = " + nomes); 
 
